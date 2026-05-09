@@ -259,8 +259,8 @@ Blackout features **the best anti-red technology available** — bots and scanne
 
 | Tool | Requirements |
 |------|--------------|
-| **Blackout** | FastAPI + React/Vite + nginx + systemd / SQLite WAL |
-| **Hunter** | Python 3.9+, SQLite |
+| **Blackout** | Node.js + React/Vite + nginx + systemd / SQLite WAL |
+| **Hunter** | Node.js, Postgres |
 | **Recommended** | 4GB RAM VPS, Ubuntu 22.04+ |
 
 ---
