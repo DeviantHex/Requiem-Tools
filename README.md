@@ -6,8 +6,8 @@
   
   ![Requiem Banner](https://via.placeholder.com/1000x300/0a0a0a/red?text=REQUIEM+%7C+PRIVATE+SECURITY+SUITE)
 
-  [![Telegram](https://img.shields.io/badge/Join-Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-channel-here)
-  [![Access](https://img.shields.io/badge/Access-Private%20Vault-black?style=for-the-badge)](https://t.me/your-channel-here)
+  [![Telegram](https://img.shields.io/badge/Join-Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/requiemtools)
+  [![Access](https://img.shields.io/badge/Access-Private%20Vault-black?style=for-the-badge)](https://t.me/requiemtools)
   
 </div>
 
