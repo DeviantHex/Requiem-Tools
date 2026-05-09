@@ -127,30 +127,6 @@ This is where Blackout shines. Watch victims in real-time.
 
 ---
 
-#### 🧩 Services Configuration
-
-Define everything via `manifest.yaml`.
-
-| Feature | Description |
-|---------|-------------|
-| **Multiple services** | Run different campaigns simultaneously |
-| **Modes** | Admin (manual approval), SPA, Auto (post-submit) |
-| **Custom routes** | Define URL structure |
-| **Title + favicon** | Brand per service |
-| **Enable/disable** | Toggle services on the fly |
-| **Page import** | Import directly from any URL |
-
----
-
-#### 📄 Page Pipeline
-
-| Feature | Description |
-|---------|-------------|
-| **Server-side templating** | `{{template}}` substitution |
-| **Per-page URL payload** | Configurable capture endpoints |
-
----
-
 #### 📥 Capture Engine
 
 | Feature | Description |
@@ -188,19 +164,6 @@ Blackout features **the best anti-red technology available** — bots and scanne
 | **Immutable audit log** | 30-day retention, tamper-proof |
 | **API + WS rate limits** | Prevents abuse |
 | **Path traversal protection** | Directory escape blocked |
-
----
-
-#### 📊 Dashboard & Analytics
-
-| Feature | Description |
-|---------|-------------|
-| **Live counters** | Active sessions, total captures |
-| **Growth %** | Day-over-day metrics |
-| **30-day charts** | Visual trends |
-| **Service breakdown** | Performance per campaign |
-| **Conversion funnel** | Page visit → Submit ratio |
-| **Real-time geo heatmap** | Live victim mapping |
 
 ---
 
@@ -251,47 +214,13 @@ Blackout features **the best anti-red technology available** — bots and scanne
 
 ---
 
-#### 🔗 Links Module
-
-| Feature | Description |
-|---------|-------------|
-| **Disposable/single-use** | Burn after click |
-| **Obfuscated parameters** | Hide payloads |
-| **Pre-fill templates** | Dynamic URL generation |
-| **Expiry + use limits** | Timeboxed campaigns |
-| **QR generation** | Mobile-ready links |
-
----
-
-#### 🔔 Notifications
-
-| Feature | Description |
-|---------|-------------|
-| **In-panel feed** | Real-time activity log |
-| **Web Audio sounds** | Audible alerts on capture |
-| **Telegram integration** | Configurable alert levels |
-
----
-
-#### 🎨 UI & Theming
-
-| Feature | Description |
-|---------|-------------|
-| **37 built-in themes** | Dark, light, neon, matrix, etc. |
-| **Custom theme builder** | Create + export your own |
-| **Effects** | Glass morphism, depth, scanline, matrix rain |
-| **Cursor options** | Custom cursors |
-| **Font options** | Typography control |
-
----
-
 #### 📝 Audit & Deployment
 
 | Feature | Description |
 |---------|-------------|
 | **Detailed action logging** | Every user action tracked |
 | **Search + CSV export** | Full audit trail export |
-| **Tech stack** | FastAPI + React/Vite + nginx + systemd |
+| **Tech stack** | Node.js + React/Vite + nginx + systemd |
 | **Database** | SQLite with WAL mode |
 | **Auto setup** | One-command deployment script |
 
