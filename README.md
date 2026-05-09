@@ -244,12 +244,14 @@ Blackout features **the best anti-red technology available** — bots and scanne
 
 ## 🚀 Why Requiem?
 
-- ✅ **Blackout** — Most advanced phishing panel ever built
-- ✅ **Extensible** — Add any service with just HTML
-- ✅ **Undetectable** — Best anti-red technology available
-- ✅ **Developer-friendly** — Clean code, manifest-based config
-- ✅ **User-friendly** — Beautiful UI, 37 themes, real-time updates
-- ✅ **Lifetime updates** — New features added weekly
+- ✅ **Premium private tools** — No public releases, no leaks, no bullshit
+- ✅ **Verified vendor** — Operating since 2023 with 150+ active clients
+- ✅ **Lifetime updates** — All tools receive weekly feature additions & bug fixes
+- ✅ **24/7 support** — Direct Telegram support for all customers
+- ✅ **Live demos** — See every tool in action before purchasing
+- ✅ **Multiple payment options** — USDT (TRC20) / BTC / XMR
+- ✅ **No subscription** — One-time payment, lifetime access
+- ✅ **Trusted community** — Reviews & vouches pinned in Telegram channel
 
 ---
 
