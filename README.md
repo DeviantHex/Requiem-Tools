@@ -274,7 +274,7 @@ These tools are **not public** and will never be on GitHub. To purchase:
 
 <div align="center">
   
-  [![JOIN TELEGRAM](https://img.shields.io/badge/☠️_JOIN_REQUIEM_☠️-black?style=for-the-badge&logo=telegram&labelColor=red&color=black)](https://t.me/your-channel-here)
+  [![JOIN TELEGRAM](https://img.shields.io/badge/☠️_JOIN_REQUIEM_☠️-black?style=for-the-badge&logo=telegram&labelColor=red&color=black)](https://t.me/requiemtools)
   
 </div>
 
