@@ -6,8 +6,8 @@
   
   ![Requiem Banner](https://via.placeholder.com/1000x300/0a0a0a/red?text=REQUIEM+%7C+PRIVATE+SECURITY+SUITE)
 
-  [![Telegram](https://img.shields.io/badge/Join-Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/requiemtools)
-  [![Access](https://img.shields.io/badge/Access-Private%20Vault-black?style=for-the-badge)](https://t.me/requiemtools)
+  [![Telegram](https://img.shields.io/badge/Join-Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-channel-here)
+  [![Access](https://img.shields.io/badge/Access-Private%20Vault-black?style=for-the-badge)](https://t.me/your-channel-here)
   
 </div>
 
@@ -127,6 +127,30 @@ This is where Blackout shines. Watch victims in real-time.
 
 ---
 
+#### 🧩 Services Configuration
+
+Define everything via `manifest.yaml`.
+
+| Feature | Description |
+|---------|-------------|
+| **Multiple services** | Run different campaigns simultaneously |
+| **Modes** | Admin (manual approval), SPA, Auto (post-submit) |
+| **Custom routes** | Define URL structure |
+| **Title + favicon** | Brand per service |
+| **Enable/disable** | Toggle services on the fly |
+| **Page import** | Import directly from any URL |
+
+---
+
+#### 📄 Page Pipeline
+
+| Feature | Description |
+|---------|-------------|
+| **Server-side templating** | `{{template}}` substitution |
+| **Per-page URL payload** | Configurable capture endpoints |
+
+---
+
 #### 📥 Capture Engine
 
 | Feature | Description |
@@ -164,6 +188,19 @@ Blackout features **the best anti-red technology available** — bots and scanne
 | **Immutable audit log** | 30-day retention, tamper-proof |
 | **API + WS rate limits** | Prevents abuse |
 | **Path traversal protection** | Directory escape blocked |
+
+---
+
+#### 📊 Dashboard & Analytics
+
+| Feature | Description |
+|---------|-------------|
+| **Live counters** | Active sessions, total captures |
+| **Growth %** | Day-over-day metrics |
+| **30-day charts** | Visual trends |
+| **Service breakdown** | Performance per campaign |
+| **Conversion funnel** | Page visit → Submit ratio |
+| **Real-time geo heatmap** | Live victim mapping |
 
 ---
 
@@ -214,44 +251,137 @@ Blackout features **the best anti-red technology available** — bots and scanne
 
 ---
 
+#### 🔗 Links Module
+
+| Feature | Description |
+|---------|-------------|
+| **Disposable/single-use** | Burn after click |
+| **Obfuscated parameters** | Hide payloads |
+| **Pre-fill templates** | Dynamic URL generation |
+| **Expiry + use limits** | Timeboxed campaigns |
+| **QR generation** | Mobile-ready links |
+
+---
+
+#### 🔔 Notifications
+
+| Feature | Description |
+|---------|-------------|
+| **In-panel feed** | Real-time activity log |
+| **Web Audio sounds** | Audible alerts on capture |
+| **Telegram integration** | Configurable alert levels |
+
+---
+
+#### 🎨 UI & Theming
+
+| Feature | Description |
+|---------|-------------|
+| **37 built-in themes** | Dark, light, neon, matrix, etc. |
+| **Custom theme builder** | Create + export your own |
+| **Effects** | Glass morphism, depth, scanline, matrix rain |
+| **Cursor options** | Custom cursors |
+| **Font options** | Typography control |
+
+---
+
 #### 📝 Audit & Deployment
 
 | Feature | Description |
 |---------|-------------|
 | **Detailed action logging** | Every user action tracked |
 | **Search + CSV export** | Full audit trail export |
-| **Tech stack** | Node.js + React/Vite + nginx + systemd |
+| **Tech stack** | FastAPI + React/Vite + nginx + systemd |
 | **Database** | SQLite with WAL mode |
 | **Auto setup** | One-command deployment script |
 
 ---
 
-### 2. 🔍 HUNTER — AIO Vulnerability Scanning Panel
+### 2. ⚡ STRYKER — AIO Vulnerability Scanning Platform
 
-*Coming soon via Telegram. Full feature list available in channel.*
+*Enterprise-grade reconnaissance and exploitation system. Full feature list below.*
 
-| Module | Capabilities |
-|--------|---------------|
-| **Subdomain Enumeration** | Passive & active scraping |
-| **Port Scanner** | SYN/ACK stealth scanning |
-| **CVE Checker** | 15,000+ vulnerability signatures |
-| **WAF Bypass** | Cloudflare, Sucuri evasion |
-| **Admin Finder** | Intelligent brute-force |
-| **Auto-Exploit** | One-click exploitation |
-| **Report Generator** | PDF/HTML export |
+| Category | Capabilities | Details |
+|----------|--------------|---------|
+| **🏗️ Architecture** | **Languages** | Go (Backend/Worker) + TypeScript/React (Frontend) + PostgreSQL + Redis |
+| | **Deployment** | Docker + Kubernetes ready, Native Windows/Linux binaries |
+| | **Scalability** | Horizontal worker scaling (100+ concurrent scans) |
 
----
+| **🔍 Reconnaissance** | **Subdomain Enumeration** | Passive DNS, Certificate Transparency logs, Brute-force permutation |
+| | **IP Range Discovery** | CIDR scanning, Reverse DNS, Forward host discovery |
+| | **Technology Fingerprinting** | Wappalyzer-style detection (Server, Framework, CMS, Libraries) |
+| | **Port Scanning** | SYN/ACK stealth scans, 1000+ common ports, Service banner grabbing |
 
-## 🚀 Why Requiem?
+| **🔐 Credential Harvesting** | **AWS Key Detection** | AKIA/AKTA pattern matching + live STS validation via Addon System |
+| | **Stripe Key Detection** | sk_live/sk_test pattern matching + balance check |
+| | **OpenAI Key Detection** | sk- pattern matching + model access verification |
+| | **SendGrid/Mailgun/GitHub/Slack** | Full API key validation suite |
+| | **JWT Extraction** | Token capture + signature verification |
+| | **Private Key Detection** | PEM, OpenSSH, Bitcoin WIF, Ethereum keys |
+| | **Database Credentials** | MySQL, PostgreSQL, MongoDB, Redis password extraction |
+| | **.env Exposure** | Automatic credential parsing from environment files |
 
-- ✅ **Premium private tools** — No public releases, no leaks, no bullshit
-- ✅ **Verified vendor** — Operating since 2023 with 150+ active clients
-- ✅ **Lifetime updates** — All tools receive weekly feature additions & bug fixes
-- ✅ **24/7 support** — Direct Telegram support for all customers
-- ✅ **Live demos** — See every tool in action before purchasing
-- ✅ **Multiple payment options** — USDT (TRC20) / BTC / XMR
-- ✅ **No subscription** — One-time payment, lifetime access
-- ✅ **Trusted community** — Reviews & vouches pinned in Telegram channel
+| **🐛 Vulnerability Detection** | **CVE Templates** | 17+ Remote Code Execution signatures |
+| | **Laravel Debug RCE (CVE-2021-3129)** | Full `.env` read + webshell deployment |
+| | **Log4Shell (CVE-2021-44228)** | JNDI injection detection + callback server |
+| | **Spring4Shell (CVE-2022-22965)** | Webshell upload verification |
+| | **PHP-FPM RCE (CVE-2019-11043)** | Command injection testing |
+| | **WordPress Plugin RCE** | File Manager + Social Warfare exploits |
+| | **Jenkins Unauth RCE** | Groovy script console detection |
+| | **Confluence OGNL (CVE-2022-26134)** | OGNL injection testing |
+| | **GitLab ExifTool (CVE-2021-22205)** | Crafted DjVu payload validation |
+| | **Grafana Path Traversal (CVE-2021-43798)** | Arbitrary file read |
+| | **Drupalgeddon2 (CVE-2018-7600)** | RCE verification |
+| | **Jira SSTI (CVE-2019-11581)** | Template injection detection |
+| | **Kibana Prototype Pollution (CVE-2019-7609)** | RCE validation |
+| | **WebLogic RCE (CVE-2020-14882)** | Console bypass testing |
+| | **Sourcemap Exposure** | Full source code reconstruction + API key extraction |
+
+| **⚡ Exploitation Engine** | **Interactive Exploit Modal** | Per-CVE custom UI with file browser + command executor |
+| | **File Read** | Real-time file retrieval (`.env`, `config.php`, `/etc/passwd`) |
+| | **Command Execution** | System command injection with output capture |
+| | **Webshell Deployment** | One-click PHP/JSP webshell upload |
+| | **Reverse Shell Generation** | Custom payload builder |
+| | **Callback Server** | Out-of-band detection for Log4Shell |
+
+| **📊 Task Management** | **Campaign System** | Named tasks with real-time progress tracking |
+| | **Progress Bars** | Live completion percentage |
+| | **Batch Operations** | Pause/Resume/Cancel/Delete campaigns |
+| | **Export Logs** | Full task results export (JSON/TXT) |
+| | **Auto-retry** | Configurable retry limits |
+
+| **🎯 Global Discovery** | **Cloud Provider IP Ranges** | AWS, GCP, Azure, Cloudflare ranges preloaded |
+| | **Reverse DNS Scanning** | Domain discovery from IP ranges |
+| | **Permutation Generation** | Subdomain brute-force (wordlist + mutations) |
+| | **Certificate Transparency** | SSL cert-based domain discovery |
+
+| **🔔 Notifications** | **Telegram Alerts** | Real-time critical hit notifications |
+| | **Slack Webhook** | Channel integration |
+| | **Email Alerts** | SMTP support (TLS/SSL) |
+| | **Webhook** | Custom endpoint delivery |
+
+| **📈 Reporting** | **Hits Database** | Full vulnerability storage with intelligent grouping |
+| | **Search & Filter** | 15+ addon filters (AWS, Stripe, CVE, Database, Git, etc.) |
+| | **Pagination** | 15/30/50/100 items per page |
+| | **Export** | CSV/JSON/TXT downloads |
+| | **Live Statistics** | Real-time dashboard with charts |
+
+| **🛡️ Platform Security** | **Authentication** | JWT-based with Argon2id password hashing |
+| | **RBAC** | Role-based access control (Admin/User/Viewer) |
+| | **Session Management** | Configurable session timeout (1-24 hours) |
+| | **Rate Limiting** | Per-IP + per-endpoint throttling |
+| | **CORS Protection** | Whitelist-only origin access |
+| | **Database Encryption** | Sensitive fields encrypted at rest |
+
+| **🎨 User Experience** | **Glassmorphic UI** | Modern dark/light themes |
+| | **Real-time WebSocket** | Live hit updates without page refresh |
+| | **Mobile Responsive** | Fully responsive design |
+| | **Custom Logo/Branding** | Replaceable assets |
+| | **Keyboard Shortcuts** | Power-user optimizations |
+
+| **🔧 Deployment** | **Supported OS** | Windows (native), macOS (native), Linux (Docker/K8s) |
+| | **One-Command Setup** | `docker-compose up` for complete stack |
+| | **System Requirements** | 4GB RAM, 2 CPU cores (min), PostgreSQL 15+, Redis 7+ |
 
 ---
 
@@ -259,9 +389,9 @@ Blackout features **the best anti-red technology available** — bots and scanne
 
 | Tool | Requirements |
 |------|--------------|
-| **Blackout** | Node.js + React/Vite + nginx + systemd / SQLite WAL |
-| **Hunter** | Node.js, Postgres |
-| **Recommended** | 4GB RAM VPS, Ubuntu 22.04+ |
+| **Blackout** | FastAPI + React/Vite + nginx + systemd / SQLite WAL |
+| **STRYKER** | Go 1.22+, Node.js 20+, PostgreSQL 15+, Redis 7+, 4GB RAM |
+| **Recommended** | 8GB RAM VPS, Ubuntu 22.04+ for production |
 
 ---
 
@@ -271,12 +401,12 @@ These tools are **not public** and will never be on GitHub. To purchase:
 
 1. **Join my Telegram channel** using the button below
 2. Read the pinned message for pricing & demo access
-3. DM me for a live demo of **Blackout** or **Hunter**
+3. DM me for a live demo of **Blackout** or **STRYKER**
 4. Payment accepted: USDT (TRC20) / BTC / XMR
 
 <div align="center">
   
-  [![JOIN TELEGRAM](https://img.shields.io/badge/☠️_JOIN_REQUIEM_☠️-black?style=for-the-badge&logo=telegram&labelColor=red&color=black)](https://t.me/requiemtools)
+  [![JOIN TELEGRAM](https://img.shields.io/badge/☠️_JOIN_REQUIEM_☠️-black?style=for-the-badge&logo=telegram&labelColor=red&color=black)](https://t.me/your-channel-here)
   
 </div>
 
@@ -289,7 +419,7 @@ These tools are **not public** and will never be on GitHub. To purchase:
 | Tool | Preview |
 |------|---------|
 | **Blackout** | Live dashboard, service builder, session monitor, theme editor, mail importer |
-| **Hunter** | Scan reports, CVE database, exploit console |
+| **STRYKER** | Real-time scan dashboard, CVE exploitation modal, hits table with filters, task progress bars |
 
 ---
 
